@@ -1,1 +1,1 @@
-# Instagram-BruteForcer
+# Instagram
